@@ -2,6 +2,8 @@
 title                    : "程侃"
 description              : "山东大学电子信息类学生，关注机器学习、深度学习、计算机视觉与智能车系统。"
 repository               : "shy123-arch/shy123-arch.github.io"
+url                      : "https://shy123-arch.github.io"
+lang                     : "zh-CN"
 google_scholar_stats_use_cdn : false
 
 # Google Analytics

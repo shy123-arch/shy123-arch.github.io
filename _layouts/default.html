@@ -3,20 +3,19 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ site.lang | default: 'zh-CN' }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     <div id="main" role="main">
       {% include sidebar.html %}
-    
+
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
@@ -29,14 +28,13 @@ layout: compress
 
     {% include scripts.html %}
 
-<div class="footer_site">
-<hr/>
-<div class="footer_copyright">
-  © 2022 华中大 · 唐健 | 基于&nbsp
-  <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
-  acad
-  </a>&nbsp模板
-</div>
-</div>
+    <div class="footer_site">
+      <hr>
+      <div class="footer_copyright">
+        © 2026 程侃 | 基于
+        <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>
+        模板
+      </div>
+    </div>
   </body>
 </html>

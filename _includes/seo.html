@@ -29,7 +29,7 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="zh_CN">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ site.title }}">
 
@@ -40,6 +40,8 @@
 
 {% if page.excerpt %}
   <meta property="og:description" content="{{ seo_description }}">
+{% elsif site.description %}
+  <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | escape_once }}">
 {% endif %}
 
 {% if site.twitter.username %}
