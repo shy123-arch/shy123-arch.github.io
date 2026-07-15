@@ -1,4 +1,9 @@
 <script src="assets/js/main.min.js"></script>
 
+{% if site.google_analytics_id and site.google_analytics_id != "" %}
 {% include analytics.html %}
+{% endif %}
+
+{% if site.author.googlescholar and site.author.googlescholar != "" %}
 {% include fetch_google_scholar_stats.html %}
+{% endif %}
