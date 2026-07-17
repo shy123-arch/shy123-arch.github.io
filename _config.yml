@@ -1,9 +1,9 @@
 # Site Settings
-title                    : "程侃"
-description              : "山东大学电子信息类学生，关注机器学习、深度学习、计算机视觉与智能车系统。"
+title                    : "Kan Cheng"
+description              : "Electronic Information undergraduate at Shandong University, interested in machine learning, deep learning, computer vision, and intelligent vehicle systems."
 repository               : "shy123-arch/shy123-arch.github.io"
 url                      : "https://shy123-arch.github.io"
-lang                     : "zh-CN"
+lang                     : "en"
 google_scholar_stats_use_cdn : false
 
 # Google Analytics
@@ -16,10 +16,10 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "程侃"
+  name             : "Kan Cheng"
   avatar           : "images/profile.png"
-  bio              : "山东大学 | 电子信息类（崇新学堂）"
-  location         : "中国"
+  bio              : "Shandong University | Electronic Information"
+  location         : "China"
   employer         :
   pubmed           :
   googlescholar    :

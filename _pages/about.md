@@ -10,70 +10,70 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-# 简介
+# About
 
-我是 **程侃**，山东大学电子信息类（崇新学堂）本科生。我的兴趣方向包括机器学习、深度学习、计算机视觉、生成模型和智能车系统。
+I am **Kan Cheng**, an undergraduate student in Electronic Information at Shandong University. My interests include machine learning, deep learning, computer vision, generative models, and intelligent vehicle systems.
 
-我有较多竞赛与项目实践经历，曾作为项目负责人参与室外远程驾驶无人车项目，并使用 OpenCV、YOLO、PID 控制等方法完成智能小车自动驾驶相关工作。除工程实践外，我也关注 score matching、生成模型以及电路类知识图谱可视化等方向。
+I have hands-on experience in competitions and engineering projects. I led an outdoor remote-driving unmanned vehicle project and used OpenCV, YOLO, and PID control to build autonomous driving functions for an intelligent vehicle. I am also interested in score matching, generative modeling, and knowledge graph visualization for circuit-related courses.
 
 <span class="anchor" id="education"></span>
 
-# 教育背景
+# Education
 
-- **2023.09 - 至今**，山东大学，电子信息类（崇新学堂）
-  - 学业成绩：86.7
-  - 主修课程：模拟电子线路、数字电子线路、信号与系统、数字信号处理、信息论与编码、机器学习、深度学习
+- **Sep. 2023 - Present**, Shandong University, Electronic Information, Chongxin Honors Program
+  - GPA / Academic score: 86.7
+  - Core courses: Analog Electronic Circuits, Digital Electronic Circuits, Signals and Systems, Digital Signal Processing, Information Theory and Coding, Machine Learning, Deep Learning
 
 <span class="anchor" id="projects"></span>
 
-# 项目经历
+# Projects
 
-### 室外远程驾驶无人车项目
+### Outdoor Remote-Driving Unmanned Vehicle
 
-- 获得山东大学公共创新中心立项支持，担任项目负责人。
-- 使用 OpenCV、YOLO、PID 控制算法等完成智能小车自动驾驶工作。
-- 项目成果支撑全国智能汽车竞赛室外赛，并取得全国一等奖。
+- Received project support from the Public Innovation Center of Shandong University and served as the project leader.
+- Built autonomous driving functions for an intelligent vehicle using OpenCV, YOLO, and PID control.
+- The project supported competition work for the National University Intelligent Vehicle Competition outdoor track and won a national first prize.
 
-### 电路类课程知识图谱可视化网页
+### Knowledge Graph Visualization for Circuit Courses
 
-- 完成电路类课程知识图谱可视化网页构建项目。
-- 将课程知识点进行结构化组织，并通过网页方式呈现知识关联。
+- Built a web-based visualization project for circuit-course knowledge graphs.
+- Organized course concepts into a structured graph and presented relationships between knowledge points through a browser-based interface.
 
 <span class="anchor" id="awards"></span>
 
-# 获奖经历
+# Awards
 
-- 全国智能汽车竞赛室外赛全国一等奖
-- 全国大学生数学建模竞赛山东省一等奖
-- 全国大学生电子设计大赛山东省二等奖
-- 山东大学学业奖学金二等奖
+- National First Prize, Outdoor Track, National University Intelligent Vehicle Competition
+- First Prize in Shandong Province, Contemporary Undergraduate Mathematical Contest in Modeling
+- Second Prize in Shandong Province, National Undergraduate Electronics Design Contest
+- Second-Class Academic Scholarship, Shandong University
 
 <span class="anchor" id="experience"></span>
 
-# 校园经历
+# Campus Experience
 
-- 担任学习委员。
-- 曾任一多书院学生会成员。
-- 曾任 PFT 轮滑协会团支书。
+- Served as a class study committee member.
+- Former member of the Yiduo College Student Union.
+- Former Youth League branch secretary of the PFT Roller Skating Association.
 
 <span class="anchor" id="skills"></span>
 
-# 技能
+# Skills
 
-- 编程与工具：Python、PyTorch、Jupyter Notebook
-- 方向基础：机器学习、深度学习、计算机视觉、score matching、生成模型
-- 工程实践：OpenCV、YOLO、PID 控制、网页构建
-- 英语：大学英语六级（CET-6）471 分，具备英文文献阅读能力
+- Programming and tools: Python, PyTorch, Jupyter Notebook
+- Technical interests: machine learning, deep learning, computer vision, score matching, generative models
+- Engineering practice: OpenCV, YOLO, PID control, web development
+- English: CET-6 score 471; able to read technical papers and documentation in English
 
 <span class="anchor" id="self-evaluation"></span>
 
-# 自我评价
+# Self-Evaluation
 
-竞赛经历较丰富，具备较强的编程能力和工程应用能力。通过智能车等项目实践，对计算机视觉和自动控制有实际经验。学习能力与动手能力强，能够持续投入并完成复杂任务。
+I have solid competition experience, practical programming ability, and strong engineering application skills. Through intelligent vehicle projects, I gained practical experience in computer vision and automatic control. I learn quickly, enjoy hands-on work, and can stay focused on complex tasks.
 
 <span class="anchor" id="contact"></span>
 
-# 联系方式
+# Contact
 
 - Email: [3515347387@qq.com](mailto:3515347387@qq.com)
 - GitHub: [shy123-arch](https://github.com/shy123-arch)

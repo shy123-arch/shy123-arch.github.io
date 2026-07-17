@@ -1,19 +1,19 @@
 # Main navigation
 main:
-  - title: "简介"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "教育"
+  - title: "Education"
     url: "/#education"
 
-  - title: "项目"
+  - title: "Projects"
     url: "/#projects"
 
-  - title: "获奖"
+  - title: "Awards"
     url: "/#awards"
 
-  - title: "技能"
+  - title: "Skills"
     url: "/#skills"
 
-  - title: "经历"
+  - title: "Experience"
     url: "/#experience"
